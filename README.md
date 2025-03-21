@@ -9,7 +9,7 @@ Computer Systems Engineering Student at PTUK || Palestine 👩🏻‍💻 <br/><
 
 ## ⁉️About me:
 - I am Leena, a second-year Computer System Engineering student at Palestine Technical University - Kadoori.
-- Intrested in learning Web Development & problem solving ( you can check my Codeforces profile from here   <a href="https://codeforces.com/profile/leenaa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="leenaa" height="30" width="40" /></a> )
+- Intrested in learning Web Development & Problem Solving ( you can check my Codeforces profile from here   <a href="https://codeforces.com/profile/leenaa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="leenaa" height="30" width="40" /></a> )
 -  Always exploring alternative approaches to coding problems. There's more than one way to solve a problem—let's find the best one!
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/leena-amjad-8a6234351) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:leena.a.y@outlook.com) 
