@@ -8,7 +8,7 @@ Computer Systems Engineering Student at PTUK || Palestine 👩🏻‍💻 <br/><
 
 
 ## ⁉️About me:
-- I am Leena, a second-year Computer System Engineering student at Palestine Technical University - Kadoori.
+- I am Leena, a third-year Computer System Engineering student at Palestine Technical University - Kadoori.
 - Interested in learning Web Development & Problem Solving ( you can check my Codeforces profile from here   <a href="https://codeforces.com/profile/leenaa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="leenaa" height="30" width="40" /></a> )
 -  Always exploring alternative approaches to coding problems. There's more than one way to solve a problem—let's find the best one!
 ## 🌐 Socials:
